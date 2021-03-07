@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head>
+<title>UI image web</title>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/
+>
+</head>
+<body>
+<ul>
+<li><a href="#">HOME</a></li>
+<li><a href="#">SAMPLE</a></li>
+<li><a href="#">LAYOUTS</a></li>
+<li><a href="#">SHOP</a></li>
+<li><a href="#">TEMPLATES</a></li>
+<li><a href="#">COLORS</a></li>
+<li><a href="#">CONTACT</a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i>
+</a></li>
+<li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i>
+</a></li>
+<li><a href="#"><i class="fa fa-briefcase" aria-hidden="true"></i>
+</a></li>
+<li><a href="#"><i class="fa fa-pinterest-p" aria-hidden="true"></i>
+</a></li>
+<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i>
+</a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#">SEARCH.......</a></li>
+</ul>
+<div id="wrapper">
+<h><center>GLAM</h>
+</center>
+</div>
+<div id="banner">
+<img src="image/banner.jpg"/>
+</div>
+<div class="content">
+<h1 class="heading">SAMPLE POST WITH THREADED COMMENTS</h1>
+<p>This is an example of a wordpress post,you could edit this to put information
+about yourself or ....</p>
+<a href class="view">VIEW POST.</a>
+</div>
+<div id="banner1">
+<img src="image/banner1.jpg"/>
+</div>
+<div id="banner2">
+<img src="image/banner2.jpg"/>
+</div>
+<div id="banner3">
+<img src="image/banner3.jpg"/>
+</div>
+<div id="banner4">
+<img src="image/banner4.jpg"/>
+</div>
+</body>
+</html>
